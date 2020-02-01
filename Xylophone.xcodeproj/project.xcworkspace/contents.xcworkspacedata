@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Xylophone.xcodeproj">
+      location = "group:/Users/iuryvasconcelos/Desktop/Ios Development/xylophone/Xylophone/Sounds">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
